@@ -1,0 +1,1 @@
+{"model": "RNN_Exp3.pt", "train_losses": [1.10193144372366], "train_accs": [0.4222055992455158], "val_losses": [1.053594166456267], "val_accs": [0.46128875964371735], "best_val_epoch": 1, "lr": 0.001, "l2": 0.001, "max_size_vocab": 10000, "hidden_dimension": 64, "batch_size": 64}

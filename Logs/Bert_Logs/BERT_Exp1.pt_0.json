@@ -1,0 +1,1 @@
+{"model": "BERT_Exp1.pt", "train_losses": [1.0983104341463399], "train_accs": [0.43132142017371916], "val_losses": [1.0986120710077212], "val_accs": [0.4635416666666667], "best_val_epoch": 1, "lr": 0.001, "l2": 0.001, "hidden_dimension": 64, "batch_size": 32}

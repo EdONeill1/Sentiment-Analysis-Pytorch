@@ -1,0 +1,1 @@
+{"model": "Best_RNN.pt", "train_losses": [1.1061396084942865], "train_accs": [0.41398351186687504], "val_losses": [1.0532257057899652], "val_accs": [0.46225775189177937], "best_val_epoch": 1, "lr": 0.001, "l2": 0.001, "max_size_vocab": 50000, "hidden_dimension": 64, "batch_size": 64}

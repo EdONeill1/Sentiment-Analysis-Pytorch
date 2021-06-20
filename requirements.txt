@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+torchtext
+nltk
+transformers
+matplotlib
+spacy
+
+
+

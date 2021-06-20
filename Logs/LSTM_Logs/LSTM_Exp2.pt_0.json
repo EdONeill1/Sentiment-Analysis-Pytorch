@@ -1,0 +1,1 @@
+{"model": "LSTM_Exp2.pt", "train_losses": [1.2874006384784735], "train_accs": [0.39540927352257144], "val_losses": [1.3063346933024798], "val_accs": [0.37185077519379844], "best_val_epoch": 1, "lr": 0.001, "l2": 0.001, "max_size_vocab": 5000, "hidden_dimension": 128, "batch_size": 64}
